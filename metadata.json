@@ -1,0 +1,6 @@
+{
+  "name": "BOEFJE | Underwear & Sportswear",
+  "description": "Boefje Underwear & Sportswear. Premium men's underwear, modal boxer briefs, and performance apparel designed in Amsterdam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
